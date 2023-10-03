@@ -1,0 +1,11 @@
+body {
+    background-color: #191970; /* Midnight Blue */
+    color: #fff; /* White text for contrast */
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2 {
+    font-family: 'Pacifico', cursive;
+}
